@@ -21,7 +21,9 @@
 **Instrument Settings**
 After connecting to the instrument WiFi, open the browser at the address 192.168.4.1.
 
+<center>
 <img src="HS-ACC_Settings_1.jpg" width="45%"/> <img src="HS-ACC_Settings_2.jpg" width="35%"/>
+</center>
 
 
 
