@@ -1,5 +1,5 @@
 # HS-ACC WiFi Accellerometer
- A DIY instrument based on **ESP32** to record and analyse accelleration data in real-time with [HScope App](http://www.martinloren.com/hscope/).
+ A DIY instrument based on ESP32 to record and analyse accelleration data in real-time with [HScope App](http://www.martinloren.com/hscope/).
  
  ![HS-ACC](HS-ACC_Intro.jpg)
  
@@ -12,18 +12,12 @@
 1) Without PCB, just purchase some hardware module and connect by wires. Instruction in <code>No-PCB Build</code> folder.
 2) With PCB. You need to build a main controller board (instructions in <code>HS-ACC Main Board</code> folder) and 1 or 2 sensors (instructions in <code>HS-ACC Sensor</code> folder)
 
+ ## Flashing the ESP32 Firmware
+ Check out the guide [here](https://www.martinloren.com/guides/fashing-esp32/).
+
+
  ## How to use - Quick Guide
- When the instrument is powered it creates an Wifi AP with SSID like **ESP-ACC-F62684**. 
- 1) Connect to it with the phone (pass: *123456789*);
- 2) Enable WiFi connection in HScope Settings;
- 3) HScope should connect to it automatically, enjoy!
-
-**Instrument Settings**
-After connecting to the instrument WiFi, open the browser at the address 192.168.4.1.
-
-![Settigs Page](HS-ACC_Settings_1.jpg)
-![Settigs Page](HS-ACC_Settings_2.jpg)
-
+ When the ESP is powered it creates an Wifi access point with SSID like ESP-ACC-F62684. Connect to it with the phone or PC (password: 123456789) and open the browser (everything except Internet Explorer) at address 192.168.4.1, to access the device settings. Open HScope to use it.
 
 # Changelog
 ### V1.0-8 (Beta)
