@@ -19,6 +19,7 @@
  3) HScope should connect to it automatically, enjoy!
 
 **Instrument Settings**
+
 After connecting to the instrument WiFi, open the browser at the address 192.168.4.1.
 
 <img src="HS-ACC_Settings_1.jpg" width="45%"/> <img src="HS-ACC_Settings_2.jpg" width="35%"/>
