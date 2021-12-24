@@ -1,12 +1,12 @@
 # HS-ACC WiFi Accellerometer
- An easy-to-build device based on ESP32 to record and analyse accelleration data in real-time with HScope.
+ A DIY instrument based on ESP32 to record and analyse accelleration data in real-time with [HScope App](http://www.martinloren.com/hscope/).
  
  ![HS-ACC](HS-ACC%20Intro.jpg)
  
- - Can be used with 1 or 2 sensors
+ - WiFi Communication (STA or AP supported)
+ - Supports 1 or 2 accelerometers
  - Sampling rate up to 3200Sa/s, 10bit resolution
- - WiFi STA or AP supported
- - Full specifications and build instructions [here](https://www.martinloren.com/hs-acc-wifi-accelerometer/). 
+ - Full specifications [here](https://www.martinloren.com/hs-acc-wifi-accelerometer/)
  
  ## Flashing the ESP32 Firmware
  Check out the guide [here](https://www.martinloren.com/guides/fashing-esp32/).
