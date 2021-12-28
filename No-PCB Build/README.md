@@ -19,8 +19,9 @@ It is suggested to <a href="https://t.me/hscope" target="_blank">join the Telegr
 <div style="clear:both;">
 
 ## Flashing ESP32
-- Use the firmware available here;
-- Flashing procedure <a href="https://www.martinloren.com/guides/fashing-esp32/" target="_blank">here</a>.
+1. Download the firmware available <a href="https://github.com/martinloren/HS-ACC-WiFi-Accelerometer/tree/main/ESP32-Firmware" target="_blank">Here</a>;
+2. Flash the firmware using the flashing procedure <a href="https://www.martinloren.com/guides/fashing-esp32/" target="_blank">Here</a>.
+3. After flashing, restart the ESP32 and you should see the AP that it creates. Refer to the <a href="https://github.com/martinloren/HS-ACC-WiFi-Accelerometer/blob/main/README.md" target="_blank">Quick Guide</a>.
 
 
 ## Long Wiring Setup
