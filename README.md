@@ -26,6 +26,10 @@ After connecting to the instrument WiFi, open the browser at the address 192.168
 
 
 # Changelog
+### V1.1-9
+ - Improved WiFi stability
+ - Added calibration (only on webpage)
+ 
 ### V1.0-8 (Beta)
  - Added check on WiFi password lenght
    
