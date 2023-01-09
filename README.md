@@ -26,7 +26,10 @@ After connecting to the instrument WiFi, open the browser at the address 192.168
 
 
 # Changelog
-### V1.1-9
+### V1.1-9-202301
+ - Improved ADXL345 noise
+
+### V1.1-9-202212
  - Improved WiFi stability
  - Added calibration (only on webpage)
  
