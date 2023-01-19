@@ -26,9 +26,13 @@ After successful WiFi connection to the instrument, open the browser at the addr
 
 
 # Changelog
+### V1.2-11-202301
+ - Several bugs fixed
+ - UI Improved
+
 ### V1.2-10-202301
  - Several bugs fixed
-- 
+ 
 ### V1.1-9-202301
  - Improved ADXL345 noise
   
